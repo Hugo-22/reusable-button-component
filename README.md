@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{button-component-iota.vercel.app}">
+    <a href="https://button-component-iota.vercel.app">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{devchallenges.io/solutions/re0oOdun2eHgjaOTr5F9}">
+    <a href="https://devchallenges.io/solutions/re0oOdun2eHgjaOTr5F9">
       Solution
     </a>
     <span> | </span>
@@ -71,4 +71,4 @@ $ npm run serve
 
 ## Contact
 
-- Twitter [@iamhugod](https://{twitter.com/iamhugod})
+- Twitter [@iamhugod](https://twitter.com/iamhugod)
