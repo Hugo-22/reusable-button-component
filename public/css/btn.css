@@ -1,0 +1,98 @@
+/* DEFAULT */
+button {
+    width: auto;
+    height: 36px;
+    background: #E0E0E0;
+    box-shadow: 0px 2px 3px rgba(51, 51, 51, 0.2);
+    border-radius: 6px;
+    border: none;
+    padding: 8px 16px;
+}
+
+button:hover, button:focus {
+    background-color: #AEAEAE;
+}
+
+/* OUTLINE */
+.outline {
+    color: #3D5AFE;
+    border: 1px solid #3D5AFE;
+    border-radius: 6px;
+    background-color: unset;
+}
+
+.outline:hover, .outline:focus {
+    background-color: rgba(41, 98, 255, 0.1);
+} 
+
+/* TEXT */
+.text {
+    color: #3D5AFE;
+    border: unset;
+    background-color: unset;
+    box-shadow: none;
+}
+.text:hover, .text:focus {
+    border: unset;
+    background-color: rgba(41, 98, 255, 0.1);
+}
+
+.disabledShadow {
+    box-shadow: none;
+}
+
+/* SIZE */
+.sm {
+    padding: 6px 12px;
+    width: 73px;
+    height: 32px;
+}
+
+.md {
+    padding: 8px 16px;
+    width: 81px;
+    height: 36px;
+}
+
+.lg {
+    padding: 11px 22px;
+    width: 93px;
+    height: 42px;
+}
+
+/* COLOR */
+
+.default {
+    background-color: #E0E0E0;
+}
+
+.default:hover, .default:focus {
+    background-color: #AEAEAE;
+}
+
+.primary {
+    background-color: #2962FF;
+    color: #FFF;
+}
+
+.primary:hover, .primary:focus {
+    background-color: #0039CB;
+}
+
+.secondary {
+    background-color: #455A64;
+    color: #FFF;
+}
+
+.secondary:hover, .secondary:focus {
+    background-color: #1C313A;
+}
+
+.danger {
+    background-color: #D32F2F;
+    color: #FFF;
+}
+
+.danger:hover, .danger:focus {
+    background-color: #9A0007;
+}
